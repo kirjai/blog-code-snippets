@@ -1,3 +1,6 @@
+Code for the following article:
+[Testing angular services with dependencies](http://kirjai.com//testing-angular-services-with-dependencies)
+
 # TestingServicesWithDeps
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
