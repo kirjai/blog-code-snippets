@@ -1,0 +1,4 @@
+<h1 *ngIf="showTitle; else elseBlock">{{title}}</h1>
+<ng-template #elseBlock>
+  <h1>no title for you</h1>
+</ng-template>
